@@ -1,0 +1,102 @@
+[
+    {
+        "img" : "./img/biriyani.avif",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/burger.jpg",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/chicken legs.avif",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/legs.jpg",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/pasta.jpg",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/pizza.jpg",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/food.jpg",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/food1.jpg",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/food2.jpg",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/food3.jpg",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/food4.jpg",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/f8.webp",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/chingri.jpg",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/f1.jpg",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/f2.webp",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/f3.jpg",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/f4.webp",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/f5.jpg",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/ff6.jpeg",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    },
+    {
+        "img" : "./img/f7.jpg",
+        "title" : "Tasty Food",
+        "price" : "$150"
+    }
+]
